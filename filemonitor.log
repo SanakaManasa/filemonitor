@@ -1,0 +1,83 @@
+Fri, Feb  7, 2025  2:21:43 PM: Checking file integrity...
+Fri, Feb  7, 2025  2:21:43 PM: Integrity check complete.
+Fri, Feb  7, 2025  2:21:43 PM: Disk space usage is under control. Current usage: 379G%
+Fri, Feb  7, 2025  2:21:43 PM: Creating snapshot of monitored files...
+Fri, Feb  7, 2025  2:21:53 PM: Snapshot created and saved.
+Fri, Feb  7, 2025  2:21:53 PM: File integrity monitoring complete!
+Fri, Feb  7, 2025  2:23:29 PM: Checking file integrity...
+Fri, Feb  7, 2025  2:23:29 PM: Integrity check complete.
+Fri, Feb  7, 2025  2:23:29 PM: Error: Unable to retrieve valid disk usage
+Fri, Feb  7, 2025  2:23:30 PM: Creating snapshot of monitored files...
+Fri, Feb  7, 2025  2:23:38 PM: Snapshot created and saved.
+Fri, Feb  7, 2025  2:23:38 PM: File integrity monitoring complete!
+Fri, Feb  7, 2025  2:27:28 PM: Checking file integrity...
+Fri, Feb  7, 2025  2:27:28 PM: Integrity check complete.
+Fri, Feb  7, 2025  2:27:29 PM: Error: Unable to retrieve valid disk usage
+Fri, Feb  7, 2025  2:27:29 PM: Creating snapshot of monitored files...
+Fri, Feb  7, 2025  2:27:38 PM: Snapshot created and saved.
+Fri, Feb  7, 2025  2:27:38 PM: File integrity monitoring complete!
+Fri, Feb  7, 2025  2:29:48 PM: Checking file integrity...
+Fri, Feb  7, 2025  2:29:48 PM: Integrity check complete.
+Fri, Feb  7, 2025  2:29:48 PM: Error: Unable to retrieve valid disk usage
+Fri, Feb  7, 2025  2:29:48 PM: Creating snapshot of monitored files...
+Fri, Feb  7, 2025  2:29:57 PM: Snapshot created and saved.
+Fri, Feb  7, 2025  2:29:57 PM: File integrity monitoring complete!
+Fri, Feb  7, 2025  2:31:31 PM: Checking file integrity...
+Fri, Feb  7, 2025  2:31:31 PM: Integrity check complete.
+Fri, Feb  7, 2025  2:31:32 PM: Disk space usage is under control. Current usage: 20%
+Fri, Feb  7, 2025  2:31:32 PM: Creating snapshot of monitored files...
+Fri, Feb  7, 2025  2:31:41 PM: Snapshot created and saved.
+Fri, Feb  7, 2025  2:31:41 PM: File integrity monitoring complete!
+Fri, Feb  7, 2025  2:32:57 PM: Checking file integrity...
+Fri, Feb  7, 2025  2:32:57 PM: Integrity check complete.
+Fri, Feb  7, 2025  2:32:57 PM: Disk space usage is under control. Current usage: 21%
+Fri, Feb  7, 2025  2:32:57 PM: Creating snapshot of monitored files...
+Fri, Feb  7, 2025  2:33:07 PM: Snapshot created and saved.
+Fri, Feb  7, 2025  2:33:07 PM: File integrity monitoring complete!
+Sat, Feb  8, 2025  8:46:13 AM: Starting file integrity monitoring...
+Sat, Feb  8, 2025  8:46:13 AM: Checking file integrity...
+Sat, Feb  8, 2025  8:46:13 AM: Integrity check complete. No changes detected.
+Sat, Feb  8, 2025  8:46:13 AM: Error: Unable to retrieve valid disk usage
+Sat, Feb  8, 2025  8:46:14 AM: Creating snapshot of monitored files...
+Sat, Feb  8, 2025  8:46:14 AM: Snapshot created and saved.
+Sat, Feb  8, 2025  8:46:14 AM: File integrity monitoring complete!
+Sat, Feb 08, 2025 08:47:30 AM: Starting file integrity monitoring...
+Sat, Feb 08, 2025 08:47:30 AM: No previous snapshot found. Creating a new one.
+Sat, Feb 08, 2025 08:47:30 AM: Snapshot created and saved.
+Sat, Feb 08, 2025 08:47:31 AM: Disk space usage is under control. Current usage: 378G
+Sat, Feb 08, 2025 08:47:31 AM: Snapshot created and saved.
+Sat, Feb 08, 2025 08:47:31 AM: File integrity monitoring complete!
+Sat, Feb 08, 2025 08:48:49 AM: Starting file integrity monitoring...
+Sat, Feb 08, 2025 08:48:50 AM: WARNING: File changes detected!
+1,2c1,2
+< 3556a6589a6a62a0d078074a8d33091a */c/Users/manas/OneDrive/Desktop/file_monitoring/filemonitor.log
+< 81103de172f440ca502689606ac18a71 */c/Users/manas/OneDrive/Desktop/file_monitoring/filemonitor.sh
+---
+> 52593fd97f5ff737584adbd1ea88577b */c/Users/manas/OneDrive/Desktop/file_monitoring/filemonitor.log
+> 98985c6eec43385ff16ceeba3f475641 */c/Users/manas/OneDrive/Desktop/file_monitoring/filemonitor.sh
+4c4
+< 9fa8e59ed5f73cf0af7b98dacd1d28d9 */c/Users/manas/OneDrive/Desktop/file_monitoring/snapshot.md5
+---
+> 1df31ff1adcd40ca8b16c2f43774f587 */c/Users/manas/OneDrive/Desktop/file_monitoring/snapshot.md5
+5a6
+> 68f5c445b922e89dd9fe4237c800ccb3 */c/Users/manas/OneDrive/Desktop/file_monitoring/temp_snapshot.md5
+Sat, Feb 08, 2025 08:48:52 AM: Disk space usage is under control. Current usage: 378G
+Sat, Feb 08, 2025 08:48:52 AM: Snapshot created and saved.
+Sat, Feb 08, 2025 08:48:52 AM: File integrity monitoring complete!
+Sat, Feb 08, 2025 08:50:03 AM: Starting file integrity monitoring...
+Sat, Feb 08, 2025 08:50:03 AM: WARNING: File changes detected!
+1,2c1,2
+< 27def744ea07c659d545e8173926f412 */c/Users/manas/OneDrive/Desktop/file_monitoring/filemonitor.log
+< 98985c6eec43385ff16ceeba3f475641 */c/Users/manas/OneDrive/Desktop/file_monitoring/filemonitor.sh
+---
+> 2f8558f18a4ec2d38b80a779495b406b */c/Users/manas/OneDrive/Desktop/file_monitoring/filemonitor.log
+> 91dc90d7a41110b79e85750bcb100a72 */c/Users/manas/OneDrive/Desktop/file_monitoring/filemonitor.sh
+4c4
+< df789b27f1afc2d08603ab794300e806 */c/Users/manas/OneDrive/Desktop/file_monitoring/snapshot.md5
+---
+> bedaa2368ee0d889ffbc93c47b7960db */c/Users/manas/OneDrive/Desktop/file_monitoring/snapshot.md5
+5a6
+> fed7d84f9231ee67ffb574e0cba10646 */c/Users/manas/OneDrive/Desktop/file_monitoring/temp_snapshot.md5
+Sat, Feb 08, 2025 08:50:05 AM: Disk space usage is under control. Current usage: 378G
+Sat, Feb 08, 2025 08:50:05 AM: Snapshot created and saved.
+Sat, Feb 08, 2025 08:50:06 AM: File integrity monitoring complete!
